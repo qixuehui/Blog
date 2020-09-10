@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://qmelody.com/movies/index.html</loc>
+    
+    <lastmod>2020-08-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://qmelody.com/music/index.html</loc>
+    
+    <lastmod>2020-08-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://qmelody.com/2020/07/28/test/</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://qmelody.com/about/index.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://qmelody.com/categories/index.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://qmelody.com/tags/index.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://qmelody.com/link/index.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://qmelody.com/list/index.html</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://qmelody.com/</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://qmelody.com/tags/mytest/</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://qmelody.com/categories/hello/</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
